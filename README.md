@@ -21,6 +21,7 @@ Python (pandas, matplotlib, seaborn)
 Jupyter Notebook
 HTML/CSS (static webpage for visual dashboard)
 Plotly and Dash (if interactive elements are included)
+
 🔍 Analysis Overview
 Top Ports: Identified busiest ports by volume and type
 Modes of Transport: Compared trends between pedestrians, personal vehicles, and commercial trucks
